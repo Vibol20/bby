@@ -86,7 +86,7 @@ export const config = {
 
   /** Section 5 — Love letter. Each string is a paragraph. */
   letter: {
-    greeting: "My Dear Loy,",
+    greeting: "Pin YouE,",
     paragraphs: [
       "I don't know if words can truly explain how important you are to me.",
       "Since you came into my life, so many ordinary moments have become special. Your smile can make my worst day better, and simply having you beside me makes me feel lucky.",
