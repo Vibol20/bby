@@ -16,10 +16,21 @@ const quicksand = Quicksand({
   display: 'swap',
 })
 
+// export const metadata: Metadata = {
+//   title: `Happy Birthday, ${config.name} ❤️`,
+//   description: `A little surprise made with love, just for ${config.name}.`,
+//   generator: 'v0.app',
+// }
+
 export const metadata: Metadata = {
-  title: `Happy Birthday, ${config.name} ❤️`,
-  description: `A little surprise made with love, just for ${config.name}.`,
+  title: "Happy Birthday, Pin YouE ❤️",
+  description: "A little surprise made with love, just for Pin YouE.",
   generator: 'v0.app',
+  openGraph: {
+    title: "Happy Birthday, Pin YouE ❤️",
+    description: "A little surprise made with love, just for Pin YouE.",
+    type: 'website',
+  },
 }
 
 export const viewport: Viewport = {
