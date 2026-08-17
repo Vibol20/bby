@@ -97,7 +97,7 @@ export const config = {
     closing: "Happy Birthday, my love. ❤️",
     signoffLine: "I love you more than words can say.",
     signature: "Always Yours,",
-    signatureName: "( Your Boy ❤️ )",
+    signatureName: "( Pai vibol ❤️ )",
   },
 
   /** Section 7 — Final surprise. */
