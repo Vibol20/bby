@@ -17,7 +17,7 @@ export const config = {
    * Format: "YYYY-MM-DDTHH:mm:ss"  (24h time, local timezone)
    * Example: "2025-12-24T00:00:00"
    */
-  birthday: "2026-09-01T00:00:00",
+  birthday: "2026-08-18T00:00:00",
 
   /** Background music. Replace with your own song in /public/music/. */
   music: {
