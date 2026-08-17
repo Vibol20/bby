@@ -10,7 +10,7 @@
 
 export const config = {
   /** Her name — shows up everywhere on the site. */
-  name: "Loy",
+  name: "Pin YouE",
 
   /**
    * Her next birthday date (used for the countdown timer).
